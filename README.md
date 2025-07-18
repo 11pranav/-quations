@@ -1,4 +1,4 @@
 # - Star quations
 this is my first git repository.
 <br>
-Auther - Pranav Patil
+Auther - Pranav Patil (pranav groups)
